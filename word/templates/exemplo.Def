@@ -1,0 +1,8 @@
+[Config Document]
+Repository Folder=E:\_MEGA_DRIVE\Documents_VBA_MACROS\repository
+Counter File=E:\_MEGA_DRIVE\Documents_VBA_MACROS\counters\exemplo.cnt
+Use Header Document=Yes
+Header Document Folder=E:\_MEGA_DRIVE\Documents_VBA_MACROS\hdr\exemplo
+Use Access Database=Yes
+Access Database File=E:\_MEGA_DRIVE\Documents_VBA_MACROS\mdb\documents2016.mdb
+
